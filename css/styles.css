@@ -1,0 +1,11 @@
+a {
+    display: block;
+    margin: 1em;
+    font-family: sans-serif;
+    text-decoration: auto;
+    color: rgb(0, 0, 238);
+}
+
+a:visited {
+    color: rgb(0, 0, 238);
+}
